@@ -39,6 +39,6 @@
 
 <h2 align="center"> GitHub Stats: </h2>
 
-<a align="center" href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=SolyarDarya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --></a>
+<a align="center" href="https://www.adamalston.com/"><img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=SolyarDarya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --></a>
 
  📫 Hire me! [![Telegram](https://img.shields.io/badge/telegram-1DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/daryasolyar)
